@@ -20,3 +20,6 @@ At the first you need to install the requirements:
            pip install keras==2.2.0
            pip install opencv-python
            pip install opencv-contrib-python
+
+# DataSet
+ The dataset is ORL_faces.npz
