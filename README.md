@@ -23,4 +23,5 @@ At the first you need to install the requirements:
 
 # DataSet
  The dataset is ORL_faces.npz
+ 
  you must extract the zip file into code folder
